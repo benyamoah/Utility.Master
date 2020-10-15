@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486458359000",
+    "firebase_url": "https://utility-62154.firebaseio.com",
+    "project_id": "utility-62154",
+    "storage_bucket": "utility-62154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486458359000:android:deb1eeb461d87b4e806bad",
+        "android_client_info": {
+          "package_name": "com.keren.utility"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486458359000-lgrr1ukjrikr56rnng7hf8f8asifjf32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGzAmpcP6UEYqGFcEOEd5zgb4iFwTsfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486458359000-lgrr1ukjrikr56rnng7hf8f8asifjf32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
